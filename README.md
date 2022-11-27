@@ -5,4 +5,4 @@ Commands:
 pip install numpy
 pip install opencv-contrib-python
 
-Also install <a href="https://pjreddie.com/media/files/yolov3.weights">THISs</a>
+Also install <a href="https://pjreddie.com/media/files/yolov3.weights">THIS</a>
